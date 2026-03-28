@@ -1,0 +1,15 @@
+-Khi chọn "cancel" cửa sổ "You've chosen: No" sẽ hiện lên
+-Để cửa sổ chỉ có hai lựa chon "Yes" và "No" thì ta phải thêm parameter như sau:
+    int option = JOptionPane.showConfirmDialog(null,
+                "Do you want to change to the first class ticket?", null, JOptionPane.YES_NO_OPTION);
+-Để cửa sổ chỉ có hai lựa chọn "I do" và "I don't" thì ta phỉa dùng JOptionPane.showOptionDialog như sau:
+    String[] options = {"I do", "I don't"};
+
+    int option = JOptionPane.showOptionDialog(null,
+        "Do you want to change to the first class ticket?",
+        null,
+        JOptionPane.YES_NO_OPTION,
+        JOptionPane.QUESTION_MESSAGE,
+        null,
+        options,
+        null);
