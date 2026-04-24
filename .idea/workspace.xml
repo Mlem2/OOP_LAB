@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fca6273-3bcb-432d-b1c3-8ac7898a8350" name="Changes" comment="added HM">
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_6_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_6_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_6_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_6_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_6_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX2_2_6_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EX6_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EXChoosingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EXChoosingOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EXInputFromKeyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/EXInputFromKeyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/FirstDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/HelloNameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/HelloNameDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/ShowTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/ShowTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01/answers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/Answers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/Design/AIMS Class Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/Design/Class AIMS.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/ReadingAssignment/Screenshot 2026-04-04 at 16.28.51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/Requirement/AIMS UseCase Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/Requirement/UseCase AIMS.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/src/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/src/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02/src/DigitalVideoDisc.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mlem2&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mlem2/OOP_LAB.git&quot;,
+    &quot;accountId&quot;: &quot;414f716d-fdb9-4f87-a1df-a7e7aa2b3487&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3BW1Immke7PWq7Ga1h7CIm3qUKz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ChoosingOption.executor": "Run",
+    "Application.ConcatenationInLoops.executor": "Run",
+    "Application.EX2_2_5.executor": "Run",
+    "Application.EX6_3.executor": "Run",
+    "Application.FirstDialog.executor": "Run",
+    "Application.GarbageCreator.executor": "Run",
+    "Application.HelloNameDialog.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.InputFromKeyboard.executor": "Run",
+    "Application.NoGarbage.executor": "Run",
+    "Application.ShowTwoNumbers.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mlem/IdeaProjects/OOP_LAB",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Lab01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OtherProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OtherProjects" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fca6273-3bcb-432d-b1c3-8ac7898a8350" name="Changes" comment="" />
+      <created>1774589935593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774589935593</updated>
+      <workItem from="1774589936938" duration="1210000" />
+      <workItem from="1774591152377" duration="6966000" />
+      <workItem from="1774681628436" duration="133000" />
+      <workItem from="1776603727470" duration="3194000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1774590985498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774590985498</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1774591534640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774591534640</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1774592156963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774592156963</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1774594400942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774594400942</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added .class">
+      <option name="closed" value="true" />
+      <created>1774597677414</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774597677414</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added HM">
+      <option name="closed" value="true" />
+      <created>1774681757656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774681757656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added .class" />
+    <MESSAGE value="added HM" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HM" />
+  </component>
+</project>
